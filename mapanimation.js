@@ -15,7 +15,7 @@ map.addControl(new mapboxgl.NavigationControl());
 
 async function run(){
   console.log('counter');
-  //clears existing array of bus locations without creating new array (thanks stackoverflow!)
+  //clears existing array of bus locations without creating new array
   busMarkers.forEach((marker) => marker.remove());
   // get bus data
   const location = await getBusLocations();
