@@ -5,7 +5,7 @@ Refactored Real Time Bus Tracker based on code from MIT xPro course
 > Original code provided showed all stops on a specific section of the #1 bus, this one shows all busses on the route, in real time, using the MBTA api
 
 ### How to Run 
-Copy the .css, .js, and .html files in the same directory, load the index.html file into a web browser
+Copy the .css, .js, and .html files into the same directory, load the index.html file into a web browser
 
 ### Roadmap of potential improvements
 I would like to change the colors of the markers to indicate which direction the bus is traveling. At the time of initial commit, this is beyond my current skills.
